@@ -20,3 +20,4 @@ for chunk in completion:
     full_content += chunk.choices[0].delta.content
     print(chunk.choices[0].delta.content)
 print(f"完整内容为：{full_content}")
+print("测试一行代码：1731")
