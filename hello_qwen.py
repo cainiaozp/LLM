@@ -16,3 +16,4 @@ try:
 except Exception as e:
     print(f"错误信息：{e}")
     print("请参考文档：https://help.aliyun.com/zh/model-studio/developer-reference/error-code")
+#add one test code
